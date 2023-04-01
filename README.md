@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ayodyahettz
-- 🌱 I’m currently learning and developing projects on web technologies
 - 📫 You can reach me on Instagram on @ayodyahettz or Twitter on @AyodyaHettz
 
 <!---
