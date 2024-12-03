@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Ayodya </h2>
 
 ###
 
@@ -175,21 +175,4 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayodyahettz/ayodyahettz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ayodyahettz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ayodyahettz&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
